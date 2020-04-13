@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/android-testing/static/css/main.5f361e03.chunk.css",
-    "main.js": "/android-testing/static/js/main.7f48be27.chunk.js",
-    "main.js.map": "/android-testing/static/js/main.7f48be27.chunk.js.map",
+    "main.css": "/android-testing/static/css/main.1e17f288.chunk.css",
+    "main.js": "/android-testing/static/js/main.e610b8f9.chunk.js",
+    "main.js.map": "/android-testing/static/js/main.e610b8f9.chunk.js.map",
     "runtime-main.js": "/android-testing/static/js/runtime-main.a2395f0c.js",
     "runtime-main.js.map": "/android-testing/static/js/runtime-main.a2395f0c.js.map",
-    "static/js/2.38ca78e8.chunk.js": "/android-testing/static/js/2.38ca78e8.chunk.js",
-    "static/js/2.38ca78e8.chunk.js.map": "/android-testing/static/js/2.38ca78e8.chunk.js.map",
+    "static/js/2.9898899f.chunk.js": "/android-testing/static/js/2.9898899f.chunk.js",
+    "static/js/2.9898899f.chunk.js.map": "/android-testing/static/js/2.9898899f.chunk.js.map",
     "index.html": "/android-testing/index.html",
-    "precache-manifest.1f083594081eefc7cfedfb95057d505b.js": "/android-testing/precache-manifest.1f083594081eefc7cfedfb95057d505b.js",
+    "precache-manifest.9e5a6512b4475eb891de848d57a324eb.js": "/android-testing/precache-manifest.9e5a6512b4475eb891de848d57a324eb.js",
     "service-worker.js": "/android-testing/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/android-testing/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.38ca78e8.chunk.js.LICENSE.txt": "/android-testing/static/js/2.38ca78e8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/android-testing/static/media/logo.5d5d9eef.svg"
+    "static/css/main.1e17f288.chunk.css.map": "/android-testing/static/css/main.1e17f288.chunk.css.map",
+    "static/js/2.9898899f.chunk.js.LICENSE.txt": "/android-testing/static/js/2.9898899f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2395f0c.js",
-    "static/js/2.38ca78e8.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7f48be27.chunk.js"
+    "static/js/2.9898899f.chunk.js",
+    "static/css/main.1e17f288.chunk.css",
+    "static/js/main.e610b8f9.chunk.js"
   ]
 }
