@@ -1,0 +1,16 @@
+.rc-tooltip {
+  opacity: 1;
+}
+
+.rc-tooltip-inner {
+  border: 1px solid;
+  border-radius: 0;
+  max-width: 200px;
+  border: 1px solid;
+  border-radius: 0;
+  max-width: 200px;
+  font-size: 12px;
+  font-family: NeueHaasGroteskDisplay;
+  min-height: unset;
+  padding: 12px;
+}
