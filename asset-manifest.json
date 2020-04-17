@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/android-testing/static/js/main.6e994a09.chunk.js",
-    "main.js.map": "/android-testing/static/js/main.6e994a09.chunk.js.map",
+    "main.js": "/android-testing/static/js/main.b01539ea.chunk.js",
+    "main.js.map": "/android-testing/static/js/main.b01539ea.chunk.js.map",
     "runtime-main.js": "/android-testing/static/js/runtime-main.a2395f0c.js",
     "runtime-main.js.map": "/android-testing/static/js/runtime-main.a2395f0c.js.map",
     "static/js/2.8565e70d.chunk.js": "/android-testing/static/js/2.8565e70d.chunk.js",
     "static/js/2.8565e70d.chunk.js.map": "/android-testing/static/js/2.8565e70d.chunk.js.map",
     "index.html": "/android-testing/index.html",
-    "precache-manifest.9e5d400e3d3fbb0837bf4a13d92dc037.js": "/android-testing/precache-manifest.9e5d400e3d3fbb0837bf4a13d92dc037.js",
+    "precache-manifest.25b3025c0cc25dd6f7e192f2c71a2d1a.js": "/android-testing/precache-manifest.25b3025c0cc25dd6f7e192f2c71a2d1a.js",
     "service-worker.js": "/android-testing/service-worker.js",
     "static/js/2.8565e70d.chunk.js.LICENSE.txt": "/android-testing/static/js/2.8565e70d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2395f0c.js",
     "static/js/2.8565e70d.chunk.js",
-    "static/js/main.6e994a09.chunk.js"
+    "static/js/main.b01539ea.chunk.js"
   ]
 }
