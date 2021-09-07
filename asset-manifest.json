@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/android-testing/static/css/main.05d7fdb2.chunk.css",
-    "main.js": "/android-testing/static/js/main.90faf771.chunk.js",
-    "main.js.map": "/android-testing/static/js/main.90faf771.chunk.js.map",
+    "main.js": "/android-testing/static/js/main.52f2876f.chunk.js",
+    "main.js.map": "/android-testing/static/js/main.52f2876f.chunk.js.map",
     "runtime-main.js": "/android-testing/static/js/runtime-main.e480bf74.js",
     "runtime-main.js.map": "/android-testing/static/js/runtime-main.e480bf74.js.map",
     "static/js/2.3f074f4b.chunk.js": "/android-testing/static/js/2.3f074f4b.chunk.js",
     "static/js/2.3f074f4b.chunk.js.map": "/android-testing/static/js/2.3f074f4b.chunk.js.map",
     "index.html": "/android-testing/index.html",
-    "precache-manifest.ea2442a6829baa90adba3f77e2cd48cd.js": "/android-testing/precache-manifest.ea2442a6829baa90adba3f77e2cd48cd.js",
+    "precache-manifest.8efee66f90a5ea24960e0e4c01495bb4.js": "/android-testing/precache-manifest.8efee66f90a5ea24960e0e4c01495bb4.js",
     "service-worker.js": "/android-testing/service-worker.js",
     "static/css/main.05d7fdb2.chunk.css.map": "/android-testing/static/css/main.05d7fdb2.chunk.css.map",
     "static/js/2.3f074f4b.chunk.js.LICENSE.txt": "/android-testing/static/js/2.3f074f4b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e480bf74.js",
     "static/js/2.3f074f4b.chunk.js",
     "static/css/main.05d7fdb2.chunk.css",
-    "static/js/main.90faf771.chunk.js"
+    "static/js/main.52f2876f.chunk.js"
   ]
 }
