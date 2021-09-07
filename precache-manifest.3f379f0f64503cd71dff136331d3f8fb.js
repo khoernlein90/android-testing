@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baaf998d577c9d45e6cf9a43f403ebc6",
+    "revision": "6366a1a029f2c944525e534bd675584c",
     "url": "/android-testing/index.html"
   },
   {
-    "revision": "a86b3719ddd5a8c47329",
+    "revision": "58fa30a98277e5257003",
     "url": "/android-testing/static/css/main.4eb7b957.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/android-testing/static/js/2.20248cb6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a86b3719ddd5a8c47329",
-    "url": "/android-testing/static/js/main.92cab85a.chunk.js"
+    "revision": "58fa30a98277e5257003",
+    "url": "/android-testing/static/js/main.5b390a8f.chunk.js"
   },
   {
     "revision": "9a4e2a7812cf2831c2a9",
